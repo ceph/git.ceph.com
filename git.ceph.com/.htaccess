@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^/git/\?p\=ceph\.git\;a\=blob_plain\;f\=keys/release\.asc   /git/release.asc  [PT]
