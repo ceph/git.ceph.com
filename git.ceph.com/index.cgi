@@ -72,7 +72,7 @@ our $GIT = "/usr/bin/git";
 
 # absolute fs-path which will be prepended to the project path
 #our $projectroot = "/pub/scm";
-our $projectroot = "/pub/git";
+our $projectroot = "/git";
 
 # fs traversing limit for getting project list
 # the number is relative to the projectroot
