@@ -10,6 +10,7 @@ ceph-qa-suite
 gf-complete
 jerasure
 keys
+linux-firmware
 mdb
 qemu-iotests
 radosgw-agent
