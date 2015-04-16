@@ -1,0 +1,6 @@
+[hooks]
+        mailinglist = ceph-commit@ceph.com
+        announcelist = ceph-commit@ceph.com
+        envelopesender = ceph-commit@ceph.com
+        emailprefix = 
+        diffopts = --stat --summary --find-copies-harder -p
