@@ -10,7 +10,7 @@ ceph-qa-suite
 gf-complete
 jerasure
 keys
-linux-firmware
+linux-firmware git://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
 mdb
 qemu-iotests
 radosgw-agent
@@ -18,4 +18,4 @@ remoto
 rocksdb
 s3-tests
 teuthology
-xfstests
+xfstests git://oss.sgi.com/xfs/cmds/xfstests
